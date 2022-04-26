@@ -2,7 +2,7 @@
   <img src="./assets/gif/hello_world.gif" width="100"/>
 </div>
 
-#:v:
+#Hola
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shiriart">
