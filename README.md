@@ -1,4 +1,4 @@
-# Hola Mundo
+# :v: Hola Mundo
 
 ![Hello World](./assets/gif/hello_world.gif)
 
