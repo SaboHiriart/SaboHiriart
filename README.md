@@ -9,6 +9,14 @@
 # :v: Hi, I'm Sebastian! :sunglasses:
 
 :computer: _Computer Engineer at University of Guadalajara_  
-:dark_sunglasses: _programming technician at University of Colima_  
+:dark_sunglasses: _Programming Technician at University of Colima_  
 
 ## More about me...
+```javascript
+const SaboHiriart = {
+  Age: 21,
+  code: [Javascript, HTML, CSS, C++],
+  tools: [React, Node, Bootstrap, React-Native],
+  Hobbies: ["Computer Networks", "Cyber Security", "Anime"],
+}
+```
