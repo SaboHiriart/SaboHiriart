@@ -1,5 +1,5 @@
-# :v: Hola Mundo
+# :v: Hola, mi nombre es Sebastian, pero puedes llamarme Sabo :sunglasses:
 
-![Hello World](./assets/gif/hello_world.gif)
+<img align="center" width="100" height="100" src="./assets/gif/hello_world.gif">
 
 ## Me gusta la programación
