@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="230" height="150" src="./assets/gif/hello_world.gif">
+  <img width="280" height="200" src="./assets/gif/hello_world.gif">
 </p>
 
 # :v: Hola, Soy Sebastian :sunglasses:
