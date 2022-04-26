@@ -3,8 +3,8 @@
 </p>
 
 # :v: Hi, I'm Sebastian! :sunglasses:
-<a href="mailto:sebastian.ochoa0512@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-:computer: _Computer Engineer at University of Guadalajara_
-:dark_sunglasses: _programming technician at University of Colima_
+<a href="mailto:sebastian.ochoa0512@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
+:computer: _Computer Engineer at University of Guadalajara_  
+:dark_sunglasses: _programming technician at University of Colima_  
 
 ## More about me...
