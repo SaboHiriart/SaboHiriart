@@ -2,12 +2,9 @@
   <img width="280" height="200" src="./assets/gif/hello_world.gif">
 </p>
 
-# :v: Hola, Soy Sebastian :sunglasses:
+# :v: Hi, I'm Sebastian! :sunglasses:
+<a href="mailto:sebastian.ochoa0512@gmail.com">https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white</a>
+:computer: _Computer Engineer at University of Guadalajara_
+:dark_sunglasses: _programming technician at University of Colima_
 
-- :dark_sunglasses: Ingeniero en Informática
-- :computer: Tecnico Analísta Programador
-- :books: Certificado en CCNA
-- :telephone_receiver: Thecnical Support by Google
-
-## Experiencia
-
+## More about me...
