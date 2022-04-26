@@ -1,7 +1,13 @@
-# :v: Hola, mi nombre es Sebastian, pero puedes llamarme Sabo :sunglasses:
+# :v: Hola, Soy Sebastian :sunglasses:
 
 <p align="center">
   <img width="460" height="300" src="./assets/gif/hello_world.gif">
 </p>
 
-## Me gusta la programación
+- :dark_sunglasses: Ingeniero en Informática
+- :computer: Tecnico Analísta Programador
+- :books: Certificado en CCNA
+- :telephone_receiver: Thecnical Support by Google
+
+## Experiencia
+
