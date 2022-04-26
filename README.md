@@ -16,7 +16,7 @@
 const SaboHiriart = {
   Age: 21,
   code: [Javascript, HTML, CSS, C++],
-  tools: [React, Node, Bootstrap, React-Native],
+  tools: [React, Node, Bootstrap, React-Native, Electron],
   Hobbies: ["Computer Networks", "Cyber Security", "Anime"],
 }
 ```
