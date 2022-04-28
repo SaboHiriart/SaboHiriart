@@ -20,3 +20,8 @@ const SaboHiriart = {
   Hobbies: ["Computer Networks", "Cyber Security", "Anime"],
 }
 ```
+
+## My badges
+<p align="center">
+  <img width="50" height="50" src="./assets/brightcoders.png"> 
+</p>
