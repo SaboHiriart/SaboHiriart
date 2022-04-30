@@ -23,5 +23,5 @@ const SaboHiriart = {
 
 ## My badges
 <p align="center">
-  <img width="200" height="200" src="./assets/img/brightcoders.png"> 
+  <img width="150" height="150" src="./assets/img/brightcoders.png"> 
 </p>
